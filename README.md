@@ -26,7 +26,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔍 FinRAG - Financial Report Analyzer (Team of 2)
+#### 🔍 **FinRAG - Financial Report Analyzer (Team of 2)**
 FinRAG is a modular, AI-powered system built to analyze financial reports in PDF format using advanced LLM and NLP technologies. It combines the power of Spring Boot, FastAPI, LangChain, LLaMA 3, and Groq API, designed using a clean microservices architecture.
 
 🧑‍💻 My Contributions:
@@ -39,7 +39,7 @@ FinRAG is a modular, AI-powered system built to analyze financial reports in PDF
 👨‍💻 Friend’s Contributions:
 🧠 Built the LLM pipeline using LangChain + LLaMA 3 + Groq API to process and summarize financial documents.
 
-#### 🏥 Arogya Policy Management System (Internship Project)
+#### **🏥 Arogya Policy Management System (Internship Project)**
 🏥 Arogya Policy Management System
 Arogya is a full-stack web application developed using Spring Boot, MySQL, and Thymeleaf, aimed at managing health insurance schemes and policies. It supports role-based access for users and admins.
 
@@ -56,7 +56,7 @@ Arogya is a full-stack web application developed using Spring Boot, MySQL, and T
 
 This project strengthened my skills in Spring Boot backend, MySQL database integration, and Thymeleaf templating with Bootstrap UI.
 
-#### 💬 Auction Portal
+#### **💬 Auction Portal**
 A real-time auction bidding web application built using Spring Boot, MySQL, and Bootstrap, allowing users to participate in auctions and admins to manage them effectively.
 
 🔧 Key Features:
@@ -65,8 +65,10 @@ A real-time auction bidding web application built using Spring Boot, MySQL, and 
 🛠️ Admins can create new auctions, view all bids, declare winners, and manage ongoing or closed auctions via a dedicated admin panel.
 
 
-#### 🏦 Banking Management System
+#### **🏦 Banking Management System**
 > A full-stack application for managing customers, transactions, and accounts using **Spring Boot**, **MySQL**, and **Thymeleaf**. Features include secure login, role-based access, and transaction history.
+
+
 ---
 
 ### 📈 GitHub Stats
