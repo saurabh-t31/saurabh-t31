@@ -1,87 +1,111 @@
-<h1 align="center">Hi 👋, I'm Saurabh Tahashildar</h1>
-<h3 align="center">Final Year Engineering Student | Backend Developer | Cloud & AI Enthusiast</h3>
+# 👋 Hi, I am Saurabh Tahashildar  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&width=600&lines=Java+Developer+%7C+Spring+Boot+%26+React+Enthusiast;Passionate+about+Full+Stack+Development;Exploring+Cloud+%26+AI+Integrations)](https://git.io/typing-svg)
 
 ---
 
-### 💫 About Me
-- 🎓 Final Year B.E. Computer Engineering student from India
-- 💻 Passionate about building real-world applications using **Spring Boot**, **FastAPI**, and **React**
-- 🧠 Currently working on **React-based frontends** and deploying full-stack projects using **Render**
-- ☁️ Exploring Cloud: Familiar with **Docker**, **AWS basics**, and currently learning **EC2/RDS**
-- 📚 Always learning: Clean architecture, deployment, and backend optimization
+## 🚀 About Me  
+- 💻 Passionate Java Developer with a focus on **Spring Boot & React**  
+- 🎯 Exploring **Cloud Computing & Microservices**  
+- 📈 Currently working on **Courier Delivery Project**  
 
 ---
 
-### 🚀 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+## 🛠️ Tech Stack  
 
----
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+</p>
 
-### 📌 Featured Projects
+### ⚙️ Backend  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-#### 🔍 **FinRAG - Financial Report Analyzer (Team of 2)**
-FinRAG is a modular, AI-powered system built to analyze financial reports in PDF format using advanced LLM and NLP technologies. It combines the power of Spring Boot, FastAPI, LangChain, LLaMA 3, and Groq API, designed using a clean microservices architecture.
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-🧑‍💻 My Contributions:
-✅ Developed the complete Spring Boot orchestration layer, including file upload, REST endpoints, and service-to-service communication with FastAPI.
+### ☁️ Cloud & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
-✅ Integrated PDF handling, file storage, and authentication features using Thymeleaf and Spring Security.
-
-✅ Managed deployment and frontend–backend integration, and used Plotly for dynamic chart rendering in the web interface.
-
-👨‍💻 Friend’s Contributions:
-🧠 Built the LLM pipeline using LangChain + LLaMA 3 + Groq API to process and summarize financial documents.
-
-#### **🏥 Arogya Policy Management System (Internship Project)**
-🏥 Arogya Policy Management System
-Arogya is a full-stack web application developed using Spring Boot, MySQL, and Thymeleaf, aimed at managing health insurance schemes and policies. It supports role-based access for users and admins.
-
-🔧 Key Highlights:
-👤 User registration and login with session management
-
-📄 Admin can create, update, and delete policies and schemes
-
-✅ Users can view and apply for eligible schemes
-
-📊 Admin dashboard with complete scheme and user management
-
-💡 Built with Spring MVC architecture and deployed on Render
-
-This project strengthened my skills in Spring Boot backend, MySQL database integration, and Thymeleaf templating with Bootstrap UI.
-
-#### **💬 Auction Portal**
-A real-time auction bidding web application built using Spring Boot, MySQL, and Bootstrap, allowing users to participate in auctions and admins to manage them effectively.
-
-🔧 Key Features:
-👤 Users can register, view live auctions, and place bids dynamically; each auction has a countdown and displays the current highest bid in real-time.
-
-🛠️ Admins can create new auctions, view all bids, declare winners, and manage ongoing or closed auctions via a dedicated admin panel.
-
-
-#### **🏦 Banking Management System**
-> A full-stack application for managing customers, transactions, and accounts using **Spring Boot**, **MySQL**, and **Thymeleaf**. Features include secure login, role-based access, and transaction history.
-
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhtahashildar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+### 🔧 Tools  
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 📌 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://your-portfolio-link)
+### 🔹 Arogya Policy Management System  
+Arogya is a full-stack web application developed using Spring Boot, MySQL, and Thymeleaf, aimed at managing health insurance schemes and policies. It supports role-based access for users and admins.
+-  User registration and login with session management
+-  Admin can create, update, and delete policies and schemes
+-  Users can view and apply for eligible schemes
+-  Admin dashboard with complete scheme and user management
+-  Integrated **Spring Security with JWT & OAuth2**  
 
+---
+
+### 🔹 Modular AI-Powered Financial Report Analysis System  (Team of 2)
+- Developed the complete Spring Boot orchestration layer, including file upload, REST endpoints, and service-to-service communication with FastAPI. 
+- Integrated PDF handling, file storage, and authentication features using Thymeleaf and Spring Security. 
+- Managed deployment and frontend–backend integration, and used Plotly for dynamic chart rendering in the web interface.
+👨‍💻 Friend’s Contributions: 🧠 Built the LLM pipeline using LangChain + LLaMA 3 + Groq API to process and summarize financial documents.
+---
+
+### 🔹 Auction Management System  
+- Built **real-time bidding module** with live updates  
+- Designed **Admin dashboard** for auctions & winners  
+- Integrated **secure authentication & role management**  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-t31&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" height="160"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh-t31&theme=radical" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saurabh-t31&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabh-tahashildar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saurabhtahashildar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p> 
+
+---
+
+👁️ ![Profile Views](https://komarev.com/ghpvc/?username=saurabh-t31&color=blue&style=flat)
