@@ -1,13 +1,16 @@
 # 👋 Hi, I am Saurabh Tahashildar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&width=600&lines=Java+Developer+%7C+Spring+Boot+%26+React+Enthusiast;Passionate+about+Full+Stack+Development;Exploring+Cloud+%26+AI+Integrations)](https://git.io/typing-svg)
+Java Developer | Spring Boot |
+Passionate about Full Stack Development |
+| Cloud Computing and Microservices
 
 ---
 
 ## 🚀 About Me  
-- 💻 Passionate Java Developer with a focus on **Spring Boot & React**  
-- 🎯 Exploring **Cloud Computing & Microservices**  
-- 📈 Currently working on **Courier Delivery Project**  
+- I am a Java Developer with a strong interest in backend and full-stack development.
+- I primarily work with Spring Boot, Microservices, and React, and enjoy building scalable backend systems using real-world architectural patterns.
+
+I am currently exploring Cloud Computing through hands-on projects.
 
 ---
 
@@ -25,10 +28,7 @@
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
 </p>
 
 ### 🗄️ Databases  
@@ -73,11 +73,11 @@ Arogya is a full-stack web application developed using Spring Boot, MySQL, and T
 👨‍💻 Friend’s Contributions: 🧠 Built the LLM pipeline using LangChain + LLaMA 3 + Groq API to process and summarize financial documents.
 ---
 
-### 🔹 Auction Management System  
-- Built **real-time bidding module** with live updates  
-- Designed **Admin dashboard** for auctions & winners  
-- Integrated **secure authentication & role management**  
-
+### 🔹 Microservices Ecommerce Backend System 
+- A backend system built using Spring Boot microservices to demonstrate synchronous and asynchronous communication with fault tolerance.
+- Implemented service discovery using Eureka Server and centralized routing with API Gateway
+- Used OpenFeign with Resilience4j circuit breaker and fallback for synchronous communication
+- Implemented event-driven communication using Apache Kafka between Order and Payment services
 ---
 
 ## 📊 GitHub Analytics  
